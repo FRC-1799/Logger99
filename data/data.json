@@ -1,0 +1,10 @@
+{
+    "BOT_REQUIRED": 
+    {
+        "DISCORD_API_KEY": "<Insert here>"
+    },
+    "GIT_CONFIG":
+    {
+        "": ""
+    }
+}

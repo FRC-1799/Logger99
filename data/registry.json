@@ -1,0 +1,12 @@
+{
+    "USER_LIST": 
+    {
+        "UserHandle":
+        {
+            "UserLabel": "Name",
+            "UserIndex": 1,
+            "LoggedTimeH": "Hours",
+            "LoggedTimeM": "Minutes"
+        }
+    }
+}
