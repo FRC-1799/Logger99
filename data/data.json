@@ -1,12 +1,4 @@
 {
-    "Bot_data": 
-    {
-        "DISCORD_API_KEY": "",
-        "DISCORD_BOT_METADATA": {
-
-        }
-    },
-    
     "REPOSITORY": "https://github.com/FRC-1799/Logger99/branch/DataCollecor/Logs",
     "LOCAL_WIN": "%USERPROFILE%/Documents/Logs/",
 
